@@ -26,3 +26,4 @@
 @@|account.youtube.com|
 @@|myaccount.youtube.com|
 @@|studio.youtube.com|
+@@|*.ggpht.com|
