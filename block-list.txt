@@ -1,0 +1,5 @@
+|*.gmfinancial.com^
+||americredit.com^
+||www.yahoo.com|
+||yahoo.com|
+||qdmrmk-dnsotls-ds.metric.gstatic.com^
