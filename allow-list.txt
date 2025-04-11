@@ -29,3 +29,6 @@
 @@|*.ggpht.com|
 @@|*.googlevideo.com|
 @@|i.ytimg.com|
+@@||connectivitycheck.gstatic.com^
+@@||www.googleapis.com^
+@@||pubsub.googleapis.com^
