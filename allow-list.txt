@@ -53,3 +53,9 @@
 @@|addons-pa.clients6.google.com|
 @@|takeout-pa.clients6.google.com|
 @@|takeout-download-drive.usercontent.google.com|
+@@|ajax.googleapis.com|
+@@|maps.googleapis.com|
+@@|www-gmfleet-com.wpsegment8.sit.wpi.gm.com|
+@@|www.chevrolet.com|
+@@|cws.gm.com|
+@@|www.gmfinancial.com|
