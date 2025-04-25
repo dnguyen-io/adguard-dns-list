@@ -63,3 +63,4 @@
 @@|i.instagram.com|
 @@|*.cdninstagram.com|
 @@|gateway.instagram.com|
+@@|dns.quad9.net|
