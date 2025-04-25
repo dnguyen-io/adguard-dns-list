@@ -59,3 +59,7 @@
 @@|www.chevrolet.com|
 @@|cws.gm.com|
 @@|www.gmfinancial.com|
+@@|graph.instagram.com|
+@@|i.instagram.com|
+@@|*.cdninstagram.com|
+@@|gateway.instagram.com|
