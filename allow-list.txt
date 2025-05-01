@@ -64,3 +64,12 @@
 @@|*.cdninstagram.com|
 @@|gateway.instagram.com|
 @@|dns.quad9.net|
+@@|youtube.com|
+@@|pay.google.com|
+@@|maps.gstatic.com|
+@@|api2.amplitude.com|
+@@|p.typekit.net|
+@@|o37442.ingest.sentry.io|
+@@|payments.toasttab.com|
+@@|events.launchdarkly.com|
+@@|www.datadoghq-browser-agent.com|
