@@ -3,3 +3,4 @@
 ||www.yahoo.com|
 ||yahoo.com|
 ||qdmrmk-dnsotls-ds.metric.gstatic.com^
+||s0.2mdn.ne^
