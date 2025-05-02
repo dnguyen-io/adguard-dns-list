@@ -73,3 +73,6 @@
 @@|payments.toasttab.com|
 @@|events.launchdarkly.com|
 @@|www.datadoghq-browser-agent.com|
+@@|ii.questdiagnostics.com|
+@@|a.nel.cloudflare.com|
+@@|www.youtube.com|
