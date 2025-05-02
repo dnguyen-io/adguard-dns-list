@@ -4,4 +4,5 @@
 ||yahoo.com|
 ||qdmrmk-dnsotls-ds.metric.gstatic.com^
 ||s0.2mdn.ne^
+||bing.com|
 |*.bing.com^
