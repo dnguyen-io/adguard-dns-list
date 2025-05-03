@@ -17,7 +17,6 @@
 @@|account.google.com|
 @@|lh3.google.com|
 @@|ssl.gstatic.com|
-@@|lh3.googleusercontent.com|
 @@|apis.google.com|
 @@|play.google.com|
 @@|fonts.googleapis.com|
