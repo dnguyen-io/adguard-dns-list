@@ -6,3 +6,4 @@
 ||s0.2mdn.ne^
 ||bing.com|
 |*.bing.com^
+||api.insight.synology.com^
