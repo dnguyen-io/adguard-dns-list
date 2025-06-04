@@ -198,3 +198,4 @@
 @@||mobilemaps-pa-gz.googleapis.com^
 @@|*.gvt1.com
 @@|*.tiktokv.us
+@@||androidpay-users-pa.googleapis.com^
