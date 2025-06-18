@@ -6,4 +6,6 @@
 ||s0.2mdn.ne^
 ||bing.com|
 |*.bing.com^
-||api.insight.synology.com^
+||ads.pinterest.com^$important
+||ads.tiktok.com^$important
+||api.insight.synology.com^$important
