@@ -9,3 +9,5 @@
 ||ads.pinterest.com^$important
 ||ads.tiktok.com^$important
 ||api.insight.synology.com^$important
+||appsgrowthpromo-pa.*.google.com^$important
+||ogads-pa.*.google.com^$important
